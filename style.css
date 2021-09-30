@@ -28,7 +28,14 @@ tr:hover td{
     background-color: rgba(90, 109, 158, 0.87);
     color: white
 }
-
+form{
+    width: 100%;
+    border: 1px double rgba(90, 109, 158, 0.87);
+    background: rgba(161, 187, 255, 0.87);
+}
+input{
+    background: beige;
+}
 
 
 
