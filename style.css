@@ -1,0 +1,38 @@
+table{
+    width: 85%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+caption{
+        border: 1px solid #000;
+        background: rgba(90, 109, 158, 0.87);
+        color: white;
+}
+
+th{ 
+    width:17%;
+    border: 1px solid #000;
+    background: rgba(161, 187, 255, 0.87);
+    color: #000;
+}
+
+td{
+    width: 17%;
+    border: 1px solid #000;
+    background: rgb(231, 241, 238) ;
+    color: #000;
+}
+
+tr:hover td{
+    background-color: rgba(90, 109, 158, 0.87);
+    color: white
+}
+
+
+
+
+
+
+
+
